@@ -1,0 +1,1 @@
+Calling the function on a list that's too short gives an error when, during execution, there is a call of tail on an empty list.

@@ -1,0 +1,1 @@
+The last function could return any given element of a list of type a. However, non-empty lists are only necessarily going to have a first and final value (the example being a list with only a single element.) An empty list does not have a corresponding type parameter, so the function should fail on an empty list.
